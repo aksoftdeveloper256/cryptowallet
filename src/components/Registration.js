@@ -12,7 +12,7 @@ const signupSubmitHandler = (event) => {
                 <div className="container-xxl">
                     <div className="row g-3">
                         <div className="col-lg-12 d-flex justify-content-center align-items-center auth-h100">
-                            <div className="d-flex flex-column" style={{width:450}}>
+                            <div className="d-flex flex-column" style={{width:'450px'}}>
                                 <h1>Create Your Account</h1>
                                 <span className="text-muted">Register with your email</span>
                                
