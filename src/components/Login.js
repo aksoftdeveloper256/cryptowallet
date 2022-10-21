@@ -15,7 +15,7 @@ const Login = () => {
             <div className="d-flex flex-column">
               <h1>Account Login</h1>
               <span className="text-muted">
-                Welcome back! Log In with your Email or QR code
+                Welcome back! Log In with your Email
               </span>
               
               <div className="tab-content mt-4 mb-3">
